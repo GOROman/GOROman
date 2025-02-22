@@ -2,105 +2,95 @@
 
 [ChatGPT DeepReseach (2025/02/22 20:00)](https://chatgpt.com/share/67b9b789-6b28-800a-a685-c615e22dc94b)
 
+
 ~~~
-あなた:
-GOROman をリサーチして経歴や実績をまとめてください。Markdown形式でお願いします。
+You:
+Please research GOROman and summarize his career and achievements in Markdown format.
 
 ChatGPT:
-GOROman について、具体的にどの分野や活動における経歴や実績を知りたいですか？例えば、ゲーム業界、VR技術、プログラミングなど、特定の分野にフォーカスする必要がありますか？
+Which specific field or activities of GOROman are you interested in? For example, the gaming industry, VR technology, programming, etc. Do you need a focus on any particular area?
 
-あなた:
-時系列に全て
+You:
+All of them in chronological order.
 
 ChatGPT:
-了解しました。GOROman の経歴や実績について、時系列で詳細にまとめます。調査が完了したら、Markdown 形式でお知らせします。
+Understood. I will compile a detailed chronological summary of GOROman's career and achievements. I will notify you once the research is complete in Markdown format.
 ~~~
 
+# GOROman (Yoshihito Kondoh) – Chronological Summary of Career and Achievements
 
+## Career
 
+**GOROman (ごろまん)**, also known as **Yoshihito Kondoh (近藤 義仁)**, is a prominent evangelist and engineer in Japan’s VR industry. He developed a passion for programming from an early age and ran his own BBS (Bulletin Board System) using a self-made host program while still in middle school. After dropping out of university and moving to Tokyo, he worked as a **game programmer** for various gaming companies, contributing to titles for PlayStation 1/2 and the original Xbox, specializing in rendering engines and animation engines. In June 2010, he founded **XVI Inc. (株式会社エクシヴィ)** and became its CEO.
 
-# GOROman (近藤 義仁) – 経歴と実績の時系列まとめ
+### Timeline & Milestones
 
-## 経歴
+- **1980s–1990s**: Started programming on 8-bit computers at an early age. Became deeply involved in BBS communities during middle school, running his own host program. Dropped out of university and moved to Tokyo to work as a **game programmer**, contributing to well-known console games.
 
-**GOROman（ごろまん）**こと**近藤 義仁（こんどう よしひと）**氏は、日本のVR業界を代表するエヴァンジェリストでありエンジニアです。幼少期からプログラミングに熱中し、中学時代には自作のホストプログラムでパソコン通信の運営者（Sysop）を務めるなど、早くからコンピュータに親しみました。大学を中退して上京後はゲーム開発会社にて**ゲームプログラマ**として活動し、PlayStation 1/2や初代Xbox向けタイトルの開発に携わり、描画エンジンやアニメーションエンジンの開発を担当しています。2010年6月には自身の会社**「株式会社エクシヴィ (XVI)」**を起業し、代表取締役社長に就任しました。
+- **June 2010**: Founded **XVI Inc.**, assuming the role of CEO. Initially focused on amusement system contract development while continuing independent research in VR and AR. Around 2011, he experimented with Sony’s HMD **“HMZ-T1”** and used self-developed positional tracking (Johnny Chung Lee method) to play *The Elder Scrolls V: Skyrim* in a VR-like environment.
 
-### 略歴・年表
+- **August 2012**: Discovered the **Oculus Rift** developer kit (DK1) on Kickstarter and was immediately captivated by its concept (wide field of view and tracking capabilities). This event marked a turning point in his VR advocacy.
 
-- **1980年代～1990年代**: 幼少より8ビットパソコンでプログラミングを始める。中学時代にはパソコン通信に熱中し、自作プログラムでホストを運営。大学入学後、**大学を中退して東京へ**。以降、複数のゲーム開発会社でコンシューマーゲームのプログラマーとして勤務し、著名タイトルの開発に関わる。
+- **April 30, 2013**: Received the Oculus Rift DK1 and was amazed by its potential. On the same day, he uploaded a review video and dedicated the following days to developing VR content, leading to the creation of **"Mikulus"**, an application that lets users **live with Hatsune Miku in VR**. Though initial online reception was minimal, he tirelessly demonstrated VR experiences to approximately **3,900 people**, carrying his DK1 and a laptop to bars, events, and company visits, earning the title of **"VR Evangelist."**
 
-- **2010年6月**: **株式会社エクシヴィ** (XVI) を設立し、代表取締役社長に就任。当初はアミューズメント系システムの受託開発を手掛けつつ、趣味でVRやARの研究を継続しました。2011年頃にはソニーのHMD「HMZ-T1」を用い、自作のポジショントラッキング手法（Johnny Chung Lee方式）で『The Elder Scrolls V: Skyrim』をVR風にプレイする実験も行っています。
+- **Late 2013**: Developed a VR demo called **"MikuMikuAkushu" (MikuMiku Handshake)**, allowing users to virtually **shake hands with Hatsune Miku** using a modified gun controller and Oculus Rift. This demo was showcased at *Unite Japan 2014* (April 2014), astonishing attendees and reinforcing Japan’s VR business potential.
 
-- **2012年8月**: クラウドファンディングサイトKickstarterで**「Oculus Rift」**開発者キット（DK1）の存在を知り、そのコンセプト（広い視野角とトラッキング機能）に衝撃を受けて即座に支援・予約を行いました。この出来事が近藤氏にとってVR普及活動に踏み出す転機となります。
+- **2014**: Traveled to the U.S. to personally connect with Palmer Luckey, the founder of Oculus. Upon returning to Japan, he played a key role in **forming the Oculus Japan team**, even before the company had an official Japanese branch. Later, after Facebook acquired Oculus, he officially joined **Facebook Japan** as a **Partner Engineer Specialist**, supporting local developers and promoting VR adoption. During this time, he delegated his responsibilities at XVI Inc. to focus on VR evangelism.
 
-- **2013年4月30日**: Oculus Rift DK1が手元に届き、その完成度に感銘を受けます。「これは凄いぞ！」と感じた近藤氏は、即日DK1の紹介動画を公開し、ゴールデンウィーク休暇を返上してVRコンテンツの制作に没頭しました。このとき開発したのが、後に**「Mikulus（ミクラス）」**と呼ばれる**初音ミクとVR空間で暮らすためのアプリ**の原型です。当初ネット上での反応は薄かったものの、近藤氏はノートPCとDK1を持ち歩いて知人や業界関係者に片っ端からVR体験デモを実施し、その魅力を伝えて回りました。バーやイベント会場、企業訪問などを通じて**約3900人**にDK1を体験させたといい、これが彼が**「VR伝道師」**と呼ばれるゆえんとなっています。
+- **December 24, 2016**: Resigned from Oculus VR/Facebook Japan after three years. The decision was driven by his desire to focus on the development of *Mikulus*, the Hatsune Miku VR application he had been working on since 2013. He emphasized that he was not leaving the VR industry but rather pursuing a new vision for **VR as an OS for the future.**
 
-- **2013年後半**: 個人開発で**「MikuMikuAkushu（ミクミク握手）」**というVRデモを制作。Oculus Riftと改造したガンコントローラを組み合わせ、初音ミクと**バーチャル握手**ができるようにしたコンテンツで、Unityの開発者カンファレンス「Unite Japan 2014」（2014年4月）に特別出展され来場者を驚かせました。このデモは業界内でも話題となり、日本におけるVRビジネスの可能性を多くの人に実感させたと言われています。
+- **2017**: Won the **Best Individual Award** at the **VR Creative Awards 2017** for *Mikulus*. The application, which allows users to live with Hatsune Miku in VR, was highly praised. He also became a board member of the **VR Consortium** (now **XR Consortium**), contributing to the industry's overall growth.
 
-- **2014年**: 米Oculus社創業者のパルマー・ラッキー氏に直接コンタクトを取るため単身渡米し、交流を図った近藤氏は、帰国後**「Oculus Japanチーム」**の立ち上げに参画します。当時日本法人の設立予定がなかったOculusにおいて、自ら橋渡し役となって国内コミュニティを組織化し、後にFacebook傘下での日本展開の基礎を築きました。FacebookによるOculus買収後は、**Facebook Japan株式会社**にて**パートナーエンジニアスペシャリスト**として正式に入社し、国内開発者支援や技術普及に努めました。この間も自身の会社エクシヴィは副社長に任せ、VR普及活動を優先していたと述懐しています。
+- **2018**: Published the book **"The Future-Making Guide 2020-2045: Why I Bet on VR"**, co-authored with journalist Munenori Nishida, through Seikaisha Shinsho. The book discusses the past and future of VR technology in Japan. That same year, he unveiled **"AniCast"**, a tool for producing VR-based animated content, which was later used in *Showroom* livestreams featuring **virtual talent Megumi Shinonome.**
 
-- **2016年12月24日**: 約3年間務めたOculus VR/Facebook Japanを退社。退社の理由は、自身が2013年から取り組んできた初音ミクのVRアプリ「Mikulus」の開発に専念するためであり、決してVR業界から離れるわけではないと語られました。退社後は、「VR時代のOS」の可能性を追求するというビジョンを掲げ、エクシヴィを拠点に引き続きVRコンテンツ開発を続けます。
+- **2019–2021**: Continued leading VR/AR development at XVI Inc. while speaking at industry conferences (e.g., CEDEC, Akiba VR events) and contributing to tech journalism. Became an **official ambassador for the X68000 Z project**, helping revive the legendary X68000 personal computer. Additionally, he promoted **Looking Glass Go**, a holographic display device.
 
-- **2017年**: 個人開発した「Mikulus」により、**VRクリエイティブアワード2017**の**個人部門最優秀賞**を受賞。初音ミクと一緒に暮らすという斬新な発想のこの作品が高く評価され、VRクリエイターとしての実績を確立しました。また、業界団体**「VRコンソーシアム」**（のちのXRコンソーシアム）の理事にも名を連ね、産業全体の発展に寄与します。
+- **September 2023**: Joined **ViXion Inc.** as a **Technology Evangelist**, supporting their smart eyewear **ViXion01**, which features automatic focus adjustment. He also became an ambassador for the **OMBRA** noise-canceling gaming mask.
 
-- **2018年**: テクノロジー誌等での執筆やインタビューを多数受けるなか、4月にはジャーナリスト西田宗千佳氏との共著による新書**『ミライのつくり方2020-2045 僕がVRに賭けるわけ』**を星海社新書より出版。自身のVRに懸ける思いと未来展望をまとめた一冊で、日本のVRシーンの軌跡と展望について語っています。また同年、VRアニメ制作・配信ツール**「AniCast」**を発表。これはVR空間上でアバターを演技させてアニメーション制作やライブ配信が行える画期的なシステムで、バーチャルタレント「東雲めぐ」のSHOWROOM生配信にも技術提供されました。
+*(Note: The above information is based on publicly available sources.)*
 
-- **2019年～2021年頃**: エクシヴィ代表としてVR/ARコンテンツ開発を続ける傍ら、業界カンファレンスやイベントでの講演、パネルディスカッションに多数登壇。VRコミュニティにおける著名人として、メディア取材にも応じ業界動向を発信しました（例：CEDECやAkibaでのVRイベント、各種インタビュー記事など）。また、この頃より**レトロPC復刻プロジェクト「X68000 Z」**の公式アンバサダーに就任し、往年の名機X68000復活に向けたコミュニティ活性化にも協力しています。加えて、米Looking Glass社のホログラフィックディスプレイ製品にも着目し、**「Looking Glass Go」日本担当**として立体視デバイスの普及推進にも関わりました。
+## Affiliations & Roles
 
-- **2023年9月**: ウェアラブルデバイススタートアップの**ViXion株式会社**に**テクノロジー・エヴァンジェリスト**として参画。自動焦点調整機能付きスマートアイウェア「ViXion01」の可能性に惹かれオファーを受諾したもので、長年培った知見を活かし同社プロジェクトを支援しています。同年、ゲーム・VR向け防音マスク「OMBRA（オンブラ）」のアンバサダーにも起用され、日本国内での製品認知向上に一役買いました。
+- **XVI Inc.** – Founder & CEO (2010–Present)  
+  *→ Develops VR/AR content and interactive technology.*
 
-*（注：上記は公開情報に基づく略歴です。）*
+- **Oculus VR / Facebook Japan** – Partner Engineer Specialist (2014–2016)  
+  *→ Supported the development and adoption of VR in Japan.*
 
-## 所属・役職
+- **XR Consortium** – Board Member (2015–Present)  
+  *→ Contributes to VR/XR industry development and corporate collaborations.*
 
-- **株式会社エクシヴィ (XVI)** – 代表取締役社長 (創業者) *（2010年6月～現在）*  
-  *→ 2010年にエクシヴィを設立。VR/ARコンテンツ開発やインタラクティブ技術の研究開発を行う。*
+- **ViXion Inc.** – Technology Evangelist (2023–Present)  
+  *→ Promotes smart eyewear technology.*
 
-- **Oculus VR / Facebook Japan** – パートナーエンジニアスペシャリスト *（2014年～2016年）*  
-  *→ 2014年にOculus社の日本チーム立ち上げに参画し、Facebook傘下で開発者支援・技術普及を担当。日本におけるVRコミュニティ形成に貢献。*
+- **X68000 Z Official Ambassador** (2022–Present)  
+  *→ Supports the revival of the classic X68000 PC.*
 
-- **一般社団法人XRコンソーシアム** – 理事 *（2015年～現在）*  
-  *→ VRコンテンツ産業の業界団体で理事を務める。企業間連携やイベント開催を通じ、XR分野の発展に寄与。*
+- **Looking Glass Go Japan Representative** (2022–Present)  
+  *→ Advocates for holographic display technology.*
 
-- **ViXion株式会社** – テクノロジー・エヴァンジェリスト *（2023年9月～現在）*  
-  *→ 自社開発のスマートグラス製品の技術伝道役として参画。製品の技術PRや開発支援、コミュニティ啓蒙を担当。*
+- **OMBRA Ambassador** (2023)  
+  *→ Promotes gaming noise-canceling masks.*
 
-- **X68000 Z公式アンバサダー** – *（2022年～現在）*  
-  *→ レトロPC「X68000」復刻プロジェクトにアンバサダーとして参加。往年のPC文化の再興と新世代への橋渡しを担う。*
+## Key Projects & Technical Contributions
 
-- **Looking Glass Go 日本担当** – *（2022年～現在）*  
-  *→ 裸眼立体ディスプレイ技術を手掛ける米Looking Glass社の製品普及に協力。最新ホログラフィック技術の紹介やデベロッパー支援を行う。*
+- **Mikulus** (2013–) – *Live with Hatsune Miku in VR*  
+  *Winner of the VR Creative Awards 2017 Best Individual Award.*
 
-- **OMBRAアンバサダー** – *（2023年）*  
-  *→ ボイスチャット時の騒音漏れを防ぐゲーミング用防音マスク「OMBRA」の製品アンバサダーに就任。クラウドファンディングでのPR活動に貢献。*
+- **MikuMikuAkushu** (2013) – *Virtual handshake with Hatsune Miku*  
+  *Showcased at Unite Japan 2014.*
 
-## 主要プロジェクト・技術的貢献
+- **Hatsune Miku VR Special LIVE -ALIVE-** (2015) – *Hatsune Miku VR Concert*  
+  *Collaborated with Rohto Pharmaceutical.*
 
-- **Mikulus（ミクラス）** – *初音ミクと「一緒に暮らす」VRアプリケーション*（2013年～）  
-  初音ミクと部屋で対話したり触れ合ったりできるVRコンテンツ。近藤氏がOculus Rift入手直後に制作を開始した代表作であり、**2017年のVRクリエイティブアワード個人部門最優秀賞**を受賞しています。VR空間でキャラクターと生活を共にするというコンセプトは、後のVRコミュニケーションアプリにも先駆けるものでした。
+- **DMM GAMES VR × Touken Ranbu ONLINE** (2016)  
+  *VR experience featuring famous sword spirits from the game.*
 
-- **MikuMikuAkushu（ミクミク握手）** – *初音ミクとのVR握手会デモ*（2013年）  
-  Oculus Riftと改造デバイスを用いて**初音ミクと握手**する体験を実現したVRデモ。2014年の Unite Japanカンファレンスで特別展示され、大きな反響を呼びました。実際にこの握手VRを体験した業界関係者がVRビジネスの可能性に開眼したとの逸話もあり、日本のVRムーブメント初期を象徴するコンテンツの一つです。
+- **AniCast** (2018) – *VR Animation & Livestream Tool*  
+  *Used in early VTuber productions.*
 
-- **初音ミク VR Special LIVE -ALIVE-** – *初音ミクVRスペシャルライブ「ALIVE」*（2015年）  
-  音楽ライブ×VRの試みとして制作されたコンテンツ。ロート製薬の目薬ブランド「デジアイ」のプロモーション企画の一環で、ニコニコ超会議2015などで初音ミクのVRライブステージを実現しました。観客はVRヘッドセットを通じてステージ上の初音ミクの歌唱・ダンスを臨場感たっぷりに鑑賞でき、VRならではのライブ体験を提供しました。後述の「ロート デジアイ」施策とも関連しています。
+## Influence & Social Media
 
-- **ロート デジアイ × 初音ミク VRライブ** – *目薬ブランドと初音ミクのコラボVR*（2015年）  
-  ロート製薬の目薬「デジアイ」とコラボレーションしたVRコンテンツで、初音ミクのライブをVR上で再現するものです。上記「VR Special LIVE -ALIVE-」とも同プロジェクト内の名称違いと思われます。近藤氏はこの企画でVR技術パートナーを務め、**ニコニコ超会議**のブースで観客にVR体験を提供しました。
+GOROman, using the handle **@GOROman**, actively shares VR insights on **X (formerly Twitter)** and participates in industry discussions. His influential presence in the VR community has inspired many developers and enthusiasts. His vision of **"One VR headset per household, one per person"** continues to drive his mission.
 
-- **DMM GAMES VR × 刀剣乱舞ONLINE（三日月宗近Ver.）** – *人気ゲーム「刀剣乱舞」のVRコンテンツ*（2016年）  
-  DMM GAMESの人気コンテンツ「刀剣乱舞ONLINE」とタイアップしたVRデモ。名刀・三日月宗近の付喪神キャラクターが目の前に現れる体験コンテンツで、イベント展示向けに制作されました。ゲームファンにVRの魅力を伝えるコンテンツとして注目され、キャラクターIPとVR技術の融合事例となりました。
-
-- **AniCast** – *VRアニメーション制作・配信システム*（2018年）  
-  VR空間内でアニメキャラクターの演技を記録・編集し、そのままライブ配信や映像制作ができる革新的ツール。近藤氏がエクシヴィで開発し、2018年に発表しました。**バーチャルキャスト**の走りとも言える存在で、VTuber黎明期において注目を集めます。実際にバーチャルタレント「東雲めぐ」の生放送に採用されるなど、商用サービスにも技術提供されました。AniCastはクリエイターがVR空間で直接演出・カメラ操作できる点が特徴で、従来のアニメ制作プロセスに一石を投じています。
-
-*(他にも、トランスフォーマーのVR体験コンテンツや360度動画作品など、近藤氏およびエクシヴィは多数のプロジェクトを手掛けています。上記はその中でも代表的な技術貢献の例です。)*
-
-## SNS・メディアでの発信と影響力
-
-近藤義仁氏は**「@GOROman」**のハンドルネームで主にX（旧Twitter）上で情報発信を行っており、VR/AR業界の最新動向や自身のプロジェクト進捗について積極的にコメントしています。Oculus Riftを入手した直後にもその興奮をTwitterで綴ったほどで、黎明期から現在まで一貫してSNSを通じたVR普及活動を続けています。その発言は業界関係者や技術者コミュニティから注目されることが多く、国内XR分野におけるインフルエンサーの一人といえます。
-
-また、テック系メディアやゲームメディアでの**インタビュー記事や対談**も多数掲載されています。たとえば2016年末の電ファミニコゲーマーのインタビューでは、Oculus退社の真意やVRの将来像について詳細に語り、大きな反響を呼びました。そのほか専門誌への寄稿、カンファレンス（CEDECやUnite、VR学会など）での講演や基調スピーチ、コミュニティ主催のイベント（例：「GOROmanさんを囲う会 in VRChat」等）への参加など、多方面で精力的に情報発信を行っています。
-
-こうしたSNSやメディアでの発信力により、GOROman氏は日本のVRコミュニティを牽引する存在として広く認知されています。VRに関する知見をわかりやすく共有し、「一家に一台、一人に一台VRを」という自身のモットーの実現に向けて、多くの開発者やユーザーに刺激を与え続けています。
-
+---
