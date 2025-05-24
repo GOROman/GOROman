@@ -16,10 +16,10 @@
 
 | Year | Role | Org / Product | Brief |
 |------|------|---------------|-------|
-| **2025–** | **Manus Fellow (Japan)** | Manus Labs | Evangelizing the “AI agent” paradigm and running hands-on community events. |
+| **2025–** | **Manus Fellow (Japan)** | Manus | Evangelizing the “AI agent” paradigm and running hands-on community events. |
 | **2010–** | **Founder & CEO** | XVI Inc. | Building XR and AI prototypes; open-sourcing tools for the global dev community. |
 | 2023–2025 | Director & CTO | **ViXion Inc.** | Supporting R&D and go-to-market for the autofocusing smart-glasses **“ViXion01.”** |
-| 2014-16 | Partner Engineer Specialist | Oculus (Meta) | Launched Oculus,VR products in Japan and built dev relations. |
+| 2014-16 | Partner Engineer Specialist | Meta (Facebook) | Launched Oculus,VR products in Japan and built dev relations. |
 
 ---
 
