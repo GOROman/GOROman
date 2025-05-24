@@ -27,7 +27,7 @@
 
 | Project | Year | Stack / Tech | My Role & Impact |
 |---------|------|--------------|------------------|
-| **KANTAN Play** | 2024 | ESP32 · Web Bluetooth · LLM prototyping | Co-created a *one-button* music gadget; built the web app prototype and advised on firmware/UX. Successfully crowdfunded. |
+| **KANTAN Play** | 2024 | ESP32 · Godot Engine | Co-created a *one-button* music gadget; built the web app prototype and advised on firmware/UX. Successfully crowdfunded. |
 | **StampFly** | 2023-25 | M5Stamp S3 · C++ · LLM-assisted design | Core dev of an open-source palm-size drone. Leveraged ChatGPT for architecture docs, firmware scaffolding, and PID tuning. |
 | **LLM Cardputer** | 2024 | M5Stack Cardputer · Module-LLM | Turned a card-sized SBC into a local ChatGPT client; showcased fully offline LLM chat on a pocket keyboard. |
 | **SubtractProxy** | 2024 | Node.js · Ollama · OpenAI API | Wrote a MIT-licensed AI-filtering HTTP proxy that rewrites/blocks web content via local LLMs. |
